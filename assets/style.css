@@ -73,6 +73,6 @@ textarea {
 .timeSlots{display:flex; width:90%;}
 h2{padding-top: 3px; padding-right: 15px; width:120px; text-align: end;}
 .btn{padding-left: 15px; background-color: #06aed5;}
-.form-control{background-color:#6ad86a;}
+.form-control{background-color:#6ad86a; color:black; cursor:pointer;}
 
 footer{height: 150px;}
