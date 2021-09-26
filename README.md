@@ -14,8 +14,9 @@ Use this planner in your daily life to keep track of your tasks.
 * Using the jQuery library to target elements and their values for manipulation
 * Using the BootStrap library to rapidly create the save and text input elements
 * Became more familiar with local storage and JSON functionality
+* Changed the mouse pointer when over the text blocks so that it was more visible
 
-Create your own planner for today at:[Vincent D Momot's Planner](https://vincentmomot.github.io/Planner-Application-by-Vince)
+Create your own planner for today at: [Vincent D Momot's Planner](https://vincentmomot.github.io/Planner-Application-by-Vince)
 
 Screenshots of the site:
 ![This is an image of my main page](assets/ss.png)
