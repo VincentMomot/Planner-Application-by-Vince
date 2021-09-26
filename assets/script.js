@@ -45,7 +45,7 @@ localTasks=localStorage.setItem("localTasks",JSON.stringify(tasks)); //this
 else{
 var tasks=JSON.parse(localStorage.getItem("localTasks"));
 //old saves will be displayed here
-for(var k=0; k<tasks.length; k++){
+for(var k=0; k<9; k++){
 //console.log(color[k])
 color[k].value=tasks[k];
 //console.log(color[k].value) 
